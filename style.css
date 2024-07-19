@@ -1,17 +1,4 @@
 
-/* CSS for screens smaller than 600px */
-@media (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
-}
-
-/* CSS for screens larger than 600px */
-@media (min-width: 601px) {
-  body {
-    background-color: lightgreen;
-  }
-}
 
 
 *{ padding:0; margin:0; box-sizing: border-box; font-family: sans-serif; }
